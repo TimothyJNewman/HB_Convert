@@ -1,0 +1,9 @@
+H;header        ;1
+0;date          ;0 ; Date;DD/MM/YYYY
+1;paymode       ;3 ; Type;FASTER PAYMENT,CARD SUBSCRIPTION,GOOGLE PAY,ONLINE PAYMENT,4,6,6,6
+2;info          ;2 ; Reference;
+3;payee         ;1 ; Counter Party;
+4;description   ;7 ; Notes;
+5;amount        ;4 ; Amount (GBP);
+6;category      ;6 ; Spending Category;
+7;tags          ;-1 ; BLANK;
